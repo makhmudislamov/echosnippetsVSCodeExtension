@@ -1,0 +1,20 @@
+{
+    "name": "echosnippets",
+    "displayName": "echosnippets",
+    "description": "Go Echo framework web server snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "golang",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
