@@ -7,7 +7,7 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/makhmudislamov/goVSCodeExtension"
+        "url": "https://github.com/makhmudislamov/echosnippetsVSCodeExtension"
     },
     "engines": {
         "vscode": "^1.31.0"
