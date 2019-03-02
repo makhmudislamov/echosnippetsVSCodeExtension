@@ -1,7 +1,17 @@
 {
     "Simple User model setup": {
         "prefix": "!echouser",
-        "body": [],
-        "description": "basic user struct"
+        "body": [
+            "package packageName",
+            "",
+            "import ()",
+            "",
+            "type User struct {",
+            "   username string",
+            "   email string",
+            "   password string",
+            "}"
+        ],
+        "description": "Basic user struct"
     }
 }
