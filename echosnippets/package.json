@@ -2,7 +2,13 @@
     "name": "echosnippets",
     "displayName": "echosnippets",
     "description": "Go Echo framework web server snippets",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "Makhmud Islamov",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/makhmudislamov/goVSCodeExtension"
+    },
     "engines": {
         "vscode": "^1.31.0"
     },
