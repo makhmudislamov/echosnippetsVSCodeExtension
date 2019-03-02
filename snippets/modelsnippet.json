@@ -1,0 +1,7 @@
+{
+    "Simple User model setup": {
+        "prefix": "!echouser",
+        "body": [],
+        "description": "basic user struct"
+    }
+}

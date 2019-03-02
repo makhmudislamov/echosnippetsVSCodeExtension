@@ -19,11 +19,15 @@
         "snippets": [
             {
                 "language": "go",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippet.json"
             },
             {
                 "language": "go",
-                "path": "./snippets/crudsnippets.json"
+                "path": "./snippets/crudsnippet.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/modelsnippet.json"
             }
         ]
     }
