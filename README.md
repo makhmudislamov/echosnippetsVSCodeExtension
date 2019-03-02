@@ -1,4 +1,6 @@
-# echosnippets README
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/makhmudislamov/echosnippetsVSCodeExtension)](https://goreportcard.com/report/github.com/makhmudislamov/echosnippetsVSCodeExtension)
+# echosnippets 
 
 This is the README for your extension "echosnippets". After writing up a brief description, we recommend including the following sections.
 
