@@ -1,8 +1,8 @@
 {
     "Golang Echo Framework snippets": {
-        "prefix": "!hello",
+        "prefix": "!echohello",
         "body": [
-                        "package packageName",
+            "package packageName",
 
             "import (",
                 "\"net/http\"",
