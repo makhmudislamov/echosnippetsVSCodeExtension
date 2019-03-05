@@ -5,7 +5,7 @@ import (
 	"github.com/labstack/echo"
 )
 
-e := echo.New()
+var e = echo.New()
 
 // Handlers
 func create(c echo.Context) error {
