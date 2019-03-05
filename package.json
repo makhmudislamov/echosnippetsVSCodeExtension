@@ -19,7 +19,7 @@
         "snippets": [
             {
                 "language": "go",
-                "path": "./snippets/snippet.json"
+                "path": "./snippets/hellosnippet.json"
             },
             {
                 "language": "go",
