@@ -1,9 +1,8 @@
 
 ## GoMVC Extension
 
-The project is VS Code extension which produces MVC architecture for GoLang backend (echo).
+The project is VS Code extension which generates Go Echo code snippets.
 In other words npm express-generator for Go.
-MVP - CRUD boilerplate using echo
 
 **Links to start:**
 VS Code Extensions documentation: https://code.visualstudio.com/api

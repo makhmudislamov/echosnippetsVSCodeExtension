@@ -1,4 +1,4 @@
-package packageName
+package packagename
 
 import (
 	"net/http"

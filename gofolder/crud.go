@@ -1,9 +1,11 @@
-package packageName
+package packagename
 
 import (
 	"net/http"	
 	"github.com/labstack/echo"
 )
+
+e := echo.New()
 
 // Handlers
 func create(c echo.Context) error {
