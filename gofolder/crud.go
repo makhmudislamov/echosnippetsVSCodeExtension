@@ -2,24 +2,26 @@ package packagename
 
 import (
         "github.com/labstack/echo"
-        "net/http"
 )
 
 // Handlers
 func create(c echo.Context) error {
-
+        return nil
 }
 
 func find(c echo.Context) error {
+        return nil
 }
 
 func update(c echo.Context) error {
+        return nil
 }
 
 func delete(c echo.Context) error {
+        return nil
 }
 
-func main() {
+func route() {
 
         e := echo.New()
         // Routes
