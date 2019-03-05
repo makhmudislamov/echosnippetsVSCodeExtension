@@ -1,32 +1,32 @@
 package packagename
 
 import (
-    "github.com/labstack/echo"
+        "github.com/labstack/echo"
 )
 
 // Handlers
 func create(c echo.Context) error {
-    return nil
+        return nil
 }
 
 func find(c echo.Context) error {
-    return nil
+        return nil
 }
 
 func update(c echo.Context) error {
-    return nil
+        return nil
 }
 
 func delete(c echo.Context) error {
-    return nil
+        return nil
 }
 
 func route() {
 
-    e := echo.New()
-    // Routes
-    e.POST("/createRoute", create)
-    e.GET("/findRoute", find)
-    e.PUT("/updateRoute", update)
-    e.DELETE("/deleteRoute", delete)
+        e := echo.New()
+        // Routes
+        e.POST("/createRoute", create)
+        e.GET("/findRoute", find)
+        e.PUT("/updateRoute", update)
+        e.DELETE("/deleteRoute", delete)
 }
