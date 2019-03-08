@@ -1,6 +1,6 @@
 {
-    "name": "echosnippets",
-    "displayName": "echosnippets",
+    "name": "EchoSnippets",
+    "displayName": "EchoSnippets",
     "description": "Go Echo framework web server snippets",
     "version": "1.0.0",
     "publisher": "Makhmud Islamov",

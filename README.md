@@ -22,7 +22,7 @@ EchoSnippets helps developers to utilized Go Echo framework faster by generating
 ## Installation and Usage
 
 1. Install and open [Visual Studio Code](https://code.visualstudio.com/).
-2.  Press `Ctrl+Shoft+X` (on Linux and Windows) or `Cmd+Shift+X` (on macOS) to open the Extension panel.
+2.  Press `Ctrl+Shift+X` (on Linux and Windows) or `Cmd+Shift+X` (on macOS) to open the Extension panel.
 3.  Find and install EchoSnippets extension. You can also find EchoSnippets at [Marketplace]()
 4. Reload VS Code
 5. Open any `.go` file in VS Code. EchoSnippets is now activated
