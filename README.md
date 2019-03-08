@@ -6,64 +6,24 @@ EchoSnippets helps developers to utilized Go Echo framework faster by generating
 
 ## Snippet Menu
 
-> **!echouser** >> generates basic user struct \
-**!echohello** >> generates ready-to-go "Hello World" Echo  app\
-**!echocrud** >> generates basic CRUD functions, middlewares and routes
+> `!echouser` >> generates basic user struct \
+`!echohello` >> generates ready-to-go "Hello World" Echo  app\
+`!echocrud` >> generates basic CRUD functions, middlewares and routes
 
-For example if there is an image subfolder under your extension project workspace:
+TODO: add gif for each snippet
 
-\!\[feature X\]\(images/feature-x.png\)
+## Installation and Usage
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+1. Install and open [Visual Studio Code](https://code.visualstudio.com/).
+2.  Press `Ctrl+Shoft+X` (on Linux and Windows) or `Cmd+Shift+X` (on macOS) to open the Extension panel.
+3.  Find and install EchoSnippets extension. 
+4. Reload VS Code
+5. Open any `.go` file in VS Code. EchoSnippets is now activated
 
-## Requirements
+### Version 1.0.0
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Initial release of EchoSnippets include 3 snippets:
+- basic user model
+- basic hello world app
+- basuc crud functions, middlewares and routes
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
