@@ -1,12 +1,14 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/makhmudislamov/echosnippetsVSCodeExtension)](https://goreportcard.com/report/github.com/makhmudislamov/echosnippetsVSCodeExtension)
-# echosnippets 
+# EchoSnippets 
 
-This is the README for your extension "echosnippets". After writing up a brief description, we recommend including the following sections.
+EchoSnippets helps developers to utilized Go Echo framework faster by generating snippets.
 
-## Features
+## Snippet Menu
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+> **!echouser** >> generates basic user struct \
+**!echohello** >> generates ready-to-go "Hello World" Echo  app\
+**!echocrud** >> generates basic CRUD functions, middlewares and routes
 
 For example if there is an image subfolder under your extension project workspace:
 

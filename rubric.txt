@@ -9,7 +9,7 @@ Implement		README Contains Go Report Card Badge at Top	            5  - DONE
 Implement		Source Code in Public GitHub Repo & Added to Tracker	5  - DONE	
 Implement		No Exposed Secrets in Source Code	                    5  - DONE	
 Implement		Properly Defined .gitignore	                            5  - DONE	
-Implement		Attribution Links in Comments for “Borrowed” Code	    5 	
+Implement		Attribution Links in Comments for “Borrowed” Code	    5  - DONE	
 Deploy		    Shipped Live & Fully Usable	                            30	
 Document		Installation & How to Use Documentation in README	    15	
  		
