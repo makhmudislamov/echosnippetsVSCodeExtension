@@ -11,7 +11,7 @@ Implement		No Exposed Secrets in Source Code	                    5  - DONE
 Implement		Properly Defined .gitignore	                            5  - DONE	
 Implement		Attribution Links in Comments for “Borrowed” Code	    5  - DONE	
 Deploy		    Shipped Live & Fully Usable	                            30	
-Document		Installation & How to Use Documentation in README	    15	
+Document		Installation & How to Use Documentation in README	    15 - DONE	
  		
 Bonus		🌟 Add API Key Authentication to Your API	                5	
 Bonus		🌟 Documentation Website, Link in README & Repo Header	    5	
