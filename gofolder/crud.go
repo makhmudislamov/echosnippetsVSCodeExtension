@@ -21,7 +21,7 @@ func delete(c echo.Context) error {
 	return nil
 }
 
-func route() {
+func routes() {
 
 	e := echo.New()
 	// Routes
