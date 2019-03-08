@@ -27,7 +27,7 @@
             },
             {
                 "language": "go",
-                "path": "./snippets/modelsnippet.json"
+                "path": "./snippets/usermodelsnippet.json"
             }
         ]
     }
