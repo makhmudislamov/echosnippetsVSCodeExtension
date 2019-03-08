@@ -1,0 +1,20 @@
+Phase	    ✓	Criteria	Points	Score
+
+Propose		    Repo Contains proposal.md Document & Written Proposal	15 - DONE	
+Propose		    Utility Has Purpose & Fulfills the Proposal	            15 - DONE	
+Implement		Source Code Receives a B or Higher on Go Report Card	50 - DONE	
+Implement		Utility Can Persist Data	                            25	
+Implement		Utility Incorporates a Third-Party API	                25 - DONE	
+Implement		README Contains Go Report Card Badge at Top	            5  - DONE	
+Implement		Source Code in Public GitHub Repo & Added to Tracker	5  - DONE	
+Implement		No Exposed Secrets in Source Code	                    5  - DONE	
+Implement		Properly Defined .gitignore	                            5  - DONE	
+Implement		Attribution Links in Comments for “Borrowed” Code	    5 	
+Deploy		    Shipped Live & Fully Usable	                            30	
+Document		Installation & How to Use Documentation in README	    15	
+ 		
+Bonus		🌟 Add API Key Authentication to Your API	                5	
+Bonus		🌟 Documentation Website, Link in README & Repo Header	    5	
+Bonus		🌟 Test Suite with >80% Code Coverage	                    10	
+Bonus		🌟 Published Blog Post About Project	                    10	
+Bonus		🌟 Project Released on GoDoc.org	                        20
