@@ -10,10 +10,9 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-
 func TestFuncName1(t *testing.T) {
 	// Setup
-	
+
 	// Assertions
 }
 
@@ -22,3 +21,5 @@ func TestFuncName2(t *testing.T) {
 
 	// Assertions
 }
+
+// Source: https://echo.labstack.com/guide/testing

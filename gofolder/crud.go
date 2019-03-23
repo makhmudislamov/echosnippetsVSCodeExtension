@@ -29,7 +29,7 @@ func routes() {
 	// Middleware
 	e.Use(middleware.Logger())
 	e.Use(middleware.Recover())
-	
+
 	// Routes
 	e.POST("/createRoute", create)
 	e.GET("/findRoute", find)
