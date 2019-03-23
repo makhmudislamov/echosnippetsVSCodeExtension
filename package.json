@@ -28,6 +28,10 @@
             {
                 "language": "go",
                 "path": "./snippets/usermodelsnippet.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/testsnippet.json"
             }
         ]
     }
