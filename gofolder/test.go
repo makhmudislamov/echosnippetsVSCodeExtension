@@ -11,3 +11,14 @@ import (
 )
 
 
+func TestFuncName1(t *testing.T) {
+	// Setup
+	
+	// Assertions
+}
+
+func TestFuncName2(t *testing.T) {
+	// Setup
+
+	// Assertions
+}
