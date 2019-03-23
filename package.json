@@ -32,6 +32,10 @@
             {
                 "language": "go",
                 "path": "./snippets/testsnippet.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/authsnippet.json"
             }
         ]
     }
