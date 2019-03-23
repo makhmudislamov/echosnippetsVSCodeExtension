@@ -1,0 +1,9 @@
+{
+    "Simple User model setup": {
+        "prefix": "!echoauth",
+        "body": [
+         
+        ],
+        "description": "Basic auth function"
+    }
+}
