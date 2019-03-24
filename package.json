@@ -2,7 +2,7 @@
     "name": "echosnippets",
     "displayName": "EchoSnippets",
     "description": "Go Echo framework web server snippets",
-    "version": "1.2.1",
+    "version": "1.3.0",
     "publisher": "Makhmud",
     "icon": "icon.png",
     "repository": {
