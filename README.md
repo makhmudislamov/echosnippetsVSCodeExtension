@@ -18,6 +18,14 @@ EchoSnippets helps developers to utilized Go Echo framework faster by generating
 
 ![walkthrough](./demos/crud-demo.gif)
 
+`!echoauth` >> generates basic auth function
+
+![walkthrough](./demos/auth-demo.gif)
+
+`!echotest` >> generates basic test function setups
+
+![walkthrough](./demos/test-demo.gif)
+
 
 ## Installation and Usage
 
