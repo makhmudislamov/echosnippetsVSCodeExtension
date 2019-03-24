@@ -36,7 +36,7 @@ EchoSnippets helps developers to utilized Go Echo framework faster by generating
 5. Open any `.go` file in VS Code. EchoSnippets is now activated
 
 ### Version 1.2.1
-The following additional snippets were added;
+The following additional snippets were added:
 - boilerplate function for basic authentication
 - snippet for basic route testing function setups
 
@@ -45,5 +45,5 @@ The following additional snippets were added;
 Initial release of EchoSnippets include 3 snippets:
 - basic user model
 - basic hello world app
-- basuc crud functions, middlewares and routes
+- basic crud functions, middlewares and routes
 
