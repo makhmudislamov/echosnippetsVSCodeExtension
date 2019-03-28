@@ -60,3 +60,6 @@ Initial release of EchoSnippets include 3 snippets:
 - basic hello world app
 - basic crud functions, middlewares and routes
 
+If you like this extension, feel free to buy me a cup of tea 😉
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/makhmudislamov?locale.x=en_US)
