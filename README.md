@@ -8,23 +8,36 @@ EchoSnippets helps developers to utilized Go Echo framework faster by generating
 
 `!echouser` >> generates basic user struct 
 
-![walkthrough](./demos/user-demo.gif)
+
+<p>
+  <img src="./demos/user-demo.gif" width="300" title="hover text">
+</p>
 
 `!echohello` >> generates ready-to-go "Hello World" Echo  app
 
-![walkthrough](./demos/hello-demo.gif)
+<p>
+  <img src="./demos/hello-demo.gif" width="300" title="hover text">
+</p>
 
 `!echocrud` >> generates basic CRUD functions, middlewares and routes
 
-![walkthrough](./demos/crud-demo.gif)
+
+<p>
+  <img src="./demos/crud-demo.gif" width="300" title="hover text">
+</p>
 
 `!echoauth` >> generates basic auth function
 
-![walkthrough](./demos/auth-demo.gif)
+
+<p>
+  <img src="./demos/auth-demo.gif" width="300" title="hover text">
+</p>
 
 `!echotest` >> generates basic test function setups
 
-![walkthrough](./demos/test-demo.gif)
+<p>
+  <img src="./demos/test-demo.gif" width="300" title="hover text">
+</p>
 
 
 ## Installation and Usage
